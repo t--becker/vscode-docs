@@ -83,6 +83,6 @@ Start your journey with Visual Studio Code with this set of introductory videos.
 			</div>
 		</a>
 	</li>
-</ul>
+</ul>d
 
 > Note: If you would like us to cover other topics, please leave [feedback here](https://www.surveymonkey.com/r/H9W7K8J).
